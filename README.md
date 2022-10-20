@@ -1,4 +1,3 @@
-# odin-recipes
 # Odin-recipes
 > simple web page where you can find the recipes for traditional Colombian food.
 
